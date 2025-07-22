@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasannakumar B</h1>
+<h1 align="center">Hi 👋, I'm Prasanna</h1>
 <h3 align="center">I am exploring various fields of computer science, with a strong focus on Web Development. I've have worked on multiple open source projects.
 </h3>
 
